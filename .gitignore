@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+# VSCode
+.vscode*
+
 # Supabase local dev stuff
 supabase/
 
